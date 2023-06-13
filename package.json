@@ -6,6 +6,10 @@
   "author": "Stolkens <92957952+Stolkens@users.noreply.github.com>",
   "license": "MIT",
   "dependencies": {
+    "electron": "5.0.6",
     "jimp": "0.6.4"
+  },
+  "scripts": {
+    "start": "electron main.js"
   }
 }
